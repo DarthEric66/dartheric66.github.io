@@ -23,10 +23,12 @@
 <meta property="og:site_name" content="Eric&#39;s blog">
 <meta property="og:description" content="2022观看的电影和电视剧">
 <meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="http://eric6.top/images/andor.jpg">
 <meta property="article:published_time" content="2023-02-07T09:32:44.000Z">
-<meta property="article:modified_time" content="2023-02-07T09:40:31.743Z">
+<meta property="article:modified_time" content="2023-02-07T09:50:09.088Z">
 <meta property="article:author" content="Eric Liu">
 <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="http://eric6.top/images/andor.jpg">
   
   
   
@@ -337,6 +339,8 @@
 <td align="center">麻雀之歌</td>
 </tr>
 </tbody></table>
+<img src="/images/andor.jpg" srcset="/img/loading.gif" lazyload>
+
 <figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><code class="hljs python"><span class="hljs-comment"># 显示倒计时</span><br><span class="hljs-keyword">import</span> time<br><span class="hljs-keyword">for</span> i <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(<span class="hljs-number">5</span>):<br>    <span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;\r安装程序启动还需要%s秒&quot;</span> % (<span class="hljs-number">5</span>-i), end=<span class="hljs-string">&quot;&quot;</span>)<br>    time.sleep(<span class="hljs-number">1</span>)<br>lst = [<span class="hljs-string">&quot;\\&quot;</span>, <span class="hljs-string">&quot;|&quot;</span>, <span class="hljs-string">&quot;/&quot;</span>, <span class="hljs-string">&quot;—&quot;</span>]<br><span class="hljs-built_in">print</span>(<span class="hljs-string">&#x27;&#x27;</span>)<br><span class="hljs-keyword">for</span> i <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(<span class="hljs-number">20</span>):<br>    j = i % <span class="hljs-number">4</span><br>    <span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;\r&quot;</span> + lst[j], end=<span class="hljs-string">&quot;&quot;</span>,flush=<span class="hljs-literal">True</span>)<br>    time.sleep(<span class="hljs-number">0.1</span>)<br><span class="hljs-built_in">print</span>(<span class="hljs-string">&#x27;&#x27;</span>)<br><span class="hljs-keyword">for</span> i <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(<span class="hljs-number">50</span>):<br>    <span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;\r&quot;</span> + <span class="hljs-string">&quot;█&quot;</span>*i + <span class="hljs-string">&quot; &quot;</span>*(<span class="hljs-number">49</span>-i) + <span class="hljs-string">&quot;▏&quot;</span> + <span class="hljs-built_in">str</span>(i*<span class="hljs-number">2</span>+<span class="hljs-number">2</span>) + <span class="hljs-string">&quot;%&quot;</span>, sep=<span class="hljs-string">&quot;&quot;</span>, end=<span class="hljs-string">&quot;&quot;</span>)<br>    time.sleep(<span class="hljs-number">0.15</span>)<br><span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;\n下载完成&quot;</span>)<br></code></pre></td></tr></table></figure>
 
                 
