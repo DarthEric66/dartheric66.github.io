@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://eric6.top/about/index.html</loc>
+    <loc>http://eric6.top/2023/02/07/2022%E7%94%B5%E5%BD%B1%E8%A1%A8/</loc>
     
     <lastmod>2023-05-20</lastmod>
     
@@ -13,16 +13,16 @@
   <url>
     <loc>http://eric6.top/2023/02/13/2020%E7%94%B5%E5%BD%B1%E8%A1%A8/</loc>
     
-    <lastmod>2023-02-13</lastmod>
+    <lastmod>2023-05-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://eric6.top/2023/02/07/2022%E7%94%B5%E5%BD%B1%E8%A1%A8/</loc>
+    <loc>http://eric6.top/about/index.html</loc>
     
-    <lastmod>2023-02-13</lastmod>
+    <lastmod>2023-05-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
