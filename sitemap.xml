@@ -11,6 +11,15 @@
   </url>
   
   <url>
+    <loc>http://eric6.top/2023/06/18/%E6%9D%82%E5%AE%A4%E4%B8%8D%E6%9D%82%E8%AE%B001/</loc>
+    
+    <lastmod>2023-07-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://eric6.top/2023/07/08/%E6%9D%82%E5%AE%A4%E4%B8%8D%E6%9D%82%E8%AE%B002/</loc>
     
     <lastmod>2023-07-08</lastmod>
@@ -21,15 +30,6 @@
   
   <url>
     <loc>http://eric6.top/about/index.html</loc>
-    
-    <lastmod>2023-06-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://eric6.top/2023/06/18/%E6%9D%82%E5%AE%A4%E4%B8%8D%E6%9D%82%E8%AE%B001/</loc>
     
     <lastmod>2023-06-25</lastmod>
     
@@ -79,13 +79,6 @@
   </url>
   
   <url>
-    <loc>http://eric6.top/tags/2022/</loc>
-    <lastmod>2023-07-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://eric6.top/tags/%E6%9D%82%E5%AE%A4%E4%B8%8D%E6%9D%82%E8%AE%B0/</loc>
     <lastmod>2023-07-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -94,6 +87,13 @@
   
   <url>
     <loc>http://eric6.top/tags/%E7%AE%80%E4%BB%8B/</loc>
+    <lastmod>2023-07-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://eric6.top/tags/2022/</loc>
     <lastmod>2023-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
